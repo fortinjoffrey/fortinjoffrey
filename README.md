@@ -20,7 +20,7 @@ As a freelancer, I help companies in the development of their iOS and Android mo
 
 #### My background as a developer 🔥
 
-- Flutter mobile developer for SNCF Connect (March 2022 - Current)
+<!-- - Flutter mobile developer for SNCF Connect (March 2022 - Current) -->
 - Flutter mobile architect and developer for Coffreo (February 2021 - January 2022)
 - Flutter mobile developer and software architect for a major French retailer (August - December 2021)
 - Flutter mobile developer and software architect for Democracy (August - November 2021)
