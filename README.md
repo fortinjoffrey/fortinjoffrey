@@ -8,7 +8,7 @@ I'm a **mobile developer** and **software architect** since 2018
 
 As a freelancer, I help companies in the development of their iOS and Android mobile applications.
 
-#### Programming Languages 🚀
+#### Programming Languages and Frameworks 🚀
 
 <img align="left" height="36px" src="https://user-images.githubusercontent.com/36731875/161376470-cc3eb888-1c04-4991-a9dc-0e0866644e02.svg"/>
 <img align="left" height="36px" src="https://user-images.githubusercontent.com/36731875/161376398-f920bedd-beac-4d8f-a1aa-ee81e537c5a1.png"/>
